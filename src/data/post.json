@@ -1,0 +1,9 @@
+{
+  "id": 1,
+  "title": "Hello React",
+  "content": "Compound components content",
+  "user": {
+    "id": 1,
+    "name": "John Paul"
+  }
+}
